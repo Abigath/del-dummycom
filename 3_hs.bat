@@ -1,0 +1,1 @@
+del C:\WINDOWS\system32\???????.log & del C:\037589.log
